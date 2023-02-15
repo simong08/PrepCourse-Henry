@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repo de prueba para el modulo 2
+Este proyecto rs na prueba de como crea n repo y clonar a mi pc
